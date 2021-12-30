@@ -64,6 +64,12 @@ table {
     border: 1px solid #000;
 }
 
+img {
+    width: 50%;
+    height: auto;
+    padding-left: 3%;
+    padding-bottom: 50px;
+}
 
 /* Especifidad (0,0,1) */
 
