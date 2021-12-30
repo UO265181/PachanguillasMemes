@@ -35,7 +35,7 @@ header li {
 /* Especifidad (0,0,1) */
 
 video {
-    width: 50%;
+    width: 80%;
     height: auto;
     padding-left: 3%;
     padding-bottom: 50px;
@@ -65,7 +65,7 @@ table {
 }
 
 img {
-    width: 50%;
+    width: 80%;
     height: auto;
     padding-left: 3%;
     padding-bottom: 50px;
